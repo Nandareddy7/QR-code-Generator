@@ -7,7 +7,7 @@ Simple app to generate and download a QR code that can be used to share a link.
 
 MIT License
 
-Copyright (c) 2022 Ali Ahmad
+Copyright (c) 2022 Nanda Kishore Reddy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
